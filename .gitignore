@@ -1,0 +1,13 @@
+# Arduino build files
+*.bin
+*.elf
+*.hex
+*.eep
+*.d
+*.o
+
+# Compiled Arduino files
+/build/
+
+# Temporary files
+*.log
