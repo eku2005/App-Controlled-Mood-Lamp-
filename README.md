@@ -37,5 +37,4 @@ You can install these libraries via the Arduino IDE Library Manager.
 - Pair your ESP32 with the Blynk app via Bluetooth.
 - Control the color and brightness of the LED strip.
 
-## License
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
